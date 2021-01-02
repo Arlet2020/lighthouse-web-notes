@@ -1,8 +1,13 @@
-# Arlet's Notes
-
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
-
+# [Arlet's](https://github.com/Arlet2020) Notes
 ## Summary 
 
-This repository contains all of the notes taken by Arlet for the Lighthouse Labs Web Development Bootcamp.
+#### This repository contains all of the notes taken by [Arlet's](https://github.com/Arlet2020)  for the [Lighthouse Labs](https://www.lighthouselabs.ca/en)  Web Development Bootcamp.
+
+
+
+## Table Of Contents
+
+* Week 1
+  * Day 1
+
+
